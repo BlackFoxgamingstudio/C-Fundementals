@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{CCB55D57-A879-4694-8641-C7BF644873CA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="enumsamle\Program.cs">
+    <Files>
+      <File FileName="enumsamle\Program.cs" Line="51" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.enumsamle PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
